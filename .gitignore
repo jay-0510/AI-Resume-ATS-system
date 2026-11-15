@@ -67,3 +67,10 @@ artifacts/
 outputs/
 static/uploads/stylized_*
 __pycache__/
+
+# Datasets
+*.csv
+
+# ML models
+*.safetensors
+*.pkl
